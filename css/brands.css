@@ -34,8 +34,8 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
-	--button-border:1px solid #ffffff;
+	--button-background:#076678;
+	--button-border:1px solid #fbf1c7;
 }
 
 /* Amazon */
@@ -218,7 +218,7 @@
 .button-github {
 	--button-text:#ffffff;
 	--button-background:#000000;
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #fbf1c7;
 }
 
 /* GitLab */
@@ -507,7 +507,7 @@
 .button-steam-alt {
 	--button-text:#ffffff;
 	background-image:linear-gradient(90deg,#09172a,#072a57,#0c5085);
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #fbf1c7;
 }
 
 /* Strava */
@@ -616,7 +616,7 @@
 .button-yt {
 	--button-text:#ffffff;
 	--button-background:#282828;
-	--button-border:1px solid #FFFFFF;
+	--button-border:1px solid #fbf1c7;
 }
 
 /* YouTube Alt */
